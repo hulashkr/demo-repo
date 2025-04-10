@@ -1,2 +1,2 @@
 console.log("This is the entry file.");
-console.log("Version: 2");
+console.log("Version: 3");
